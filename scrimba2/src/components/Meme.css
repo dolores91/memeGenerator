@@ -28,7 +28,7 @@ main{
 }
 
 .meme--image{
-    margin-top: 20px;
+    margin-top: 15px;
     width: 100%;
 }
 .meme {
@@ -65,5 +65,5 @@ main{
 }
 
 .top {
-    top: 0;
+    top: 5px;
 }
